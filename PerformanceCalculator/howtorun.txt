@@ -1,0 +1,9 @@
+start cmd.exe
+cd /d 'This_Directory'
+dotnet run -- profile WhiteCat 'api_key' --output whitecat.txt
+dotnet run -- profile Chocomint 'api_key' --output cookiezi.txt
+dotnet run -- profile Aricin 'api_key' --output gayz.txt
+.etc
+P.S. run without quotes
+For map pp you'll need replays, follow README.md and you should have the instructions ready.
+Be sure to have Git, .NET Core SDK Latest Version AND .NET Core SDK 2.0.0 or almost equivalent (2.0.X). 
